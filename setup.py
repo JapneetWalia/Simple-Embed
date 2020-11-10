@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'Simple_Embedding'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/JapneetWalia/Simple_Embedding'
+URL = 'https://github.com/JapneetWalia/Simple_Embedding/'
 EMAIL = 'japneetwalia2797@gmail.com'
 AUTHOR = 'Japneet Singh'
 REQUIRES_PYTHON = '>=3.6.0'
